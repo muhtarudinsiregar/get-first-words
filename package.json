@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "name": "get-first-words",
+  "description": "get first word from sentence",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhtarudinsiregar/get-first-words.git"
+  },
+  "keywords": [
+    "words",
+    "first"
+  ],
+  "author": "muhtarudinsiregar <muhtarudinsiregar93@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhtarudinsiregar/get-first-words/issues"
+  },
+  "homepage": "https://github.com/muhtarudinsiregar/get-first-words#readme"
+}

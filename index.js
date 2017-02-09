@@ -1,10 +1,11 @@
 var getFirstWords = function (sentence) {
-  if (!sentence) return false;
+  if (!sentence) return false
 
-  var splitSentence = sentence.split(" ");
-  var word = splitSentence[0];
+  var splitSentence = sentence.split(' ')
+  var word = splitSentence[0]
 
-  return word;
+  return word
 }
 
-module.exports = getFirstWords;
+module.exports = getFirstWords
+//update to js standard

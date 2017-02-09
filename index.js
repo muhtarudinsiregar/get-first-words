@@ -8,4 +8,3 @@ var getFirstWords = function (sentence) {
 }
 
 module.exports = getFirstWords
-//update to js standard
